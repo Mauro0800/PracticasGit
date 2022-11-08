@@ -1,4 +1,4 @@
-#PracticasGit
+# PracticasGit
 
-## Colaboradores : Mauricio Amado, Braian Almirón.
-## Edad : 18, 26 .
+## Participantes: Mauricio Amado, Brian Almirón
+## Edades: 18, ??
